@@ -7,5 +7,7 @@ Elephant
 Cat
 
 
-
 Final Animal list
+
+
+Thank you!
