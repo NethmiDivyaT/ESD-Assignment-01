@@ -6,6 +6,9 @@ Rabbit
 Elephant
 Cat
 
+Dog
+Ant
+
 
 
 Final Animal list
