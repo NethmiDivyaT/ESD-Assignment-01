@@ -4,3 +4,4 @@ Welcome to animal List
 
 Rabbit
 Elephant
+Cat
